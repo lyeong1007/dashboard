@@ -1,4 +1,6 @@
 streamlit
-pandas
-plotly
-statsmodels
+wordcloud
+matplotlib
+pillow
+numpy
+konlpy
